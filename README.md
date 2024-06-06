@@ -7,5 +7,5 @@
 | Calculadora   | 2022          |
 | Snake Game    | 2023          |
 
-> [!IMPORTANTE]
+> :warning: IMPORTANTE
 > Os projetos foram feitos seguindo tutoriais da internet ou aprendendo a sintaxe e identação básica a partir de livros e cursos gratuitos.
